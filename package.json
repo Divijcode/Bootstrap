@@ -1,0 +1,25 @@
+{
+  "name": "pro",
+  "version": "1.0.0",
+  "description": "This is git",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Divijcode/Bootstrap.git"
+  },
+  "author": "Divij",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Divijcode/Bootstrap/issues"
+  },
+  "homepage": "https://github.com/Divijcode/Bootstrap#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lite-server": "^2.5.4"
+  }
+}
